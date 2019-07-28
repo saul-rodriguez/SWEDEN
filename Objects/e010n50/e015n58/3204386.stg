@@ -1,0 +1,31 @@
+# piers_e010n50_e015n58_3204385
+# do not edit below this line
+# Last Written Sat Jul 27 03:24:48 2019
+#
+OBJECT_STATIC e010n50_e015n58_3204385piers0700.ac 15.50772 58.50898 0.00 0
+OBJECT_STATIC e010n50_e015n58_3204385piers0706.ac 15.50772 58.61671 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 15.50014 58.50511 76.27 69.0536
+# END piers_e010n50_e015n58_3204385
+# piers_e010n50_e015n58_3204386
+# do not edit below this line
+# Last Written Sat Jul 27 03:26:23 2019
+#
+OBJECT_STATIC e010n50_e015n58_3204386piers0000.ac 15.51718 58.50898 0.00 0
+OBJECT_STATIC e010n50_e015n58_3204386piers0004.ac 15.51718 58.58080 0.00 0
+OBJECT_STATIC e010n50_e015n58_3204386piers0201.ac 15.58591 58.52693 0.00 0
+OBJECT_STATIC e010n50_e015n58_3204386piers0302.ac 15.62027 58.54489 0.00 0
+OBJECT_STATIC e010n50_e015n58_3204386piers0504.ac 15.68899 58.58080 0.00 0
+OBJECT_STATIC e010n50_e015n58_3204386piers0602.ac 15.72336 58.54489 0.00 0
+OBJECT_STATIC e010n50_e015n58_3204386piers0603.ac 15.72336 58.56284 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 15.50202 58.50338 77.13 78.402
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 15.50236 58.50295 76.99 54.0196
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 15.57702 58.52481 33.99 -67.1615
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.71872 58.55366 108.57 53.3076
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.72238 58.55519 100.89 229.118
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.69008 58.57486 107.66 197.582
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 15.58433 58.53234 34.00 93.1086
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 15.51012 58.57388 90.75 266.828
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 15.50999 58.57391 90.75 176.448
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 15.62337 58.53824 34.00 141.96
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 15.62200 58.53843 34.00 195.195
+# END piers_e010n50_e015n58_3204386

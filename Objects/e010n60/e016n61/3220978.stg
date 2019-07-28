@@ -1,0 +1,45 @@
+# platforms_e010n60_e016n61_3220978
+# do not edit below this line
+# Last Written Sat Jul 27 04:13:34 2019
+#
+OBJECT_STATIC e010n60_e016n61_3220978platforms0102.ac 16.55690 61.79487 0.00 0
+# END platforms_e010n60_e016n61_3220978
+# piers_e010n60_e016n61_3220978
+# do not edit below this line
+# Last Written Sat Jul 27 04:13:34 2019
+#
+OBJECT_STATIC e010n60_e016n61_3220978piers0103.ac 16.55690 61.81281 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220978piers0105.ac 16.55690 61.84871 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220978piers0106.ac 16.55690 61.86665 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220978piers0200.ac 16.59484 61.75897 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220978piers0203.ac 16.59484 61.81281 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220978piers0303.ac 16.63278 61.81281 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220978piers0304.ac 16.63278 61.83076 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220978piers0305.ac 16.63278 61.84871 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220978piers0403.ac 16.67071 61.81281 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220978piers0604.ac 16.74659 61.83076 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 16.61875 61.80881 39.00 151.062
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.74538 61.82816 37.03 110.011
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.73499 61.82974 37.08 104.006
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 16.57367 61.80713 39.72 27.6531
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.57319 61.80727 39.89 28.522
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.64981 61.80609 37.00 165.059
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.55836 61.80832 49.00 12.3286
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.60937 61.81026 39.00 142.888
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.60565 61.75848 80.00 268.167
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 16.60524 61.75880 80.00 328.116
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 16.60485 61.75908 80.00 264.499
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.62621 61.83529 40.00 -24.3314
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.62603 61.83533 40.00 -24.8371
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.56459 61.84158 55.00 260.199
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.61658 61.85543 40.00 271.893
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.61612 61.85563 40.00 94.2657
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 16.61633 61.85546 40.00 63.3412
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.61672 61.85555 40.00 8.6056
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.61580 61.85557 40.00 91.7141
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.61566 61.85547 40.00 182.63
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 16.62110 61.85636 40.00 142.182
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.61982 61.85682 40.00 70.5853
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.67227 61.80485 37.00 288.684
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.55660 61.85945 59.94 158.432
+# END piers_e010n60_e016n61_3220978

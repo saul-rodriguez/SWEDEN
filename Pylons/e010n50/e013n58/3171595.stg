@@ -1,0 +1,13 @@
+# pylons_e010n50_e013n58_3171595
+# do not edit below this line
+# Last Written Sat Jul 27 02:38:27 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 13.92633 58.19645 151.85 232.02
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 13.92412 58.19495 157.99 245.611
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 13.92261 58.19078 151.37 259.723
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 13.92178 58.18821 153.96 263.005
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 13.92169 58.18760 155.87 265.767
+OBJECT_BUILDING_MESH_DETAILED e010n50_e013n58_3171595cables00039.ac 13.92401 58.19202 154.68 90
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 13.96678 58.17114 -238.79 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 13.94099 58.18126 128.81 450
+# END pylons_e010n50_e013n58_3171595

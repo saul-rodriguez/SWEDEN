@@ -1,0 +1,15 @@
+# piers_e010n50_e017n58_3237161
+# do not edit below this line
+# Last Written Sat Jul 27 04:18:49 2019
+#
+OBJECT_STATIC e010n50_e017n58_3237161piers0306.ac 17.37070 58.74171 0.00 0
+OBJECT_STATIC e010n50_e017n58_3237161piers0406.ac 17.40519 58.74171 0.00 0
+OBJECT_STATIC e010n50_e017n58_3237161piers0605.ac 17.47416 58.72375 0.00 0
+OBJECT_STATIC e010n50_e017n58_3237161piers0606.ac 17.47416 58.74171 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 17.46047 58.73572 0.00 -21.262
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 17.48508 58.71978 -0.00 249.644
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.39683 58.74738 0.00 -13.654
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 17.39457 58.74288 -0.00 27.9476
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 17.39472 58.74369 0.00 34.4968
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.38634 58.74509 3.68 70.108
+# END piers_e010n50_e017n58_3237161

@@ -1,0 +1,32 @@
+# pylons_e010n50_e016n57_3220673
+# do not edit below this line
+# Last Written Sat Jul 27 03:52:25 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.50491 57.08510 3.91 330.339
+# END pylons_e010n50_e016n57_3220673
+# pylons_e010n50_e016n57_3220674
+# do not edit below this line
+# Last Written Sat Jul 27 03:53:22 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.58102 57.10290 -0.00 410.359
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.58132 57.10310 -0.00 407.848
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.58913 57.10740 -0.02 433.715
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.58912 57.10743 -0.02 102.093
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.50491 57.08510 3.91 330.452
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.50986 57.08358 6.28 330.251
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.51345 57.08245 0.85 330.254
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.51711 57.08132 5.61 353.23
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.52201 57.08208 8.15 376.129
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.52685 57.08285 10.99 375.584
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.53152 57.08353 13.30 381.058
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.53466 57.08441 13.28 390.332
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.53855 57.08581 10.40 393.221
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.54282 57.08732 9.14 396.232
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 16.54528 57.08843 8.46 399.479
+OBJECT_BUILDING_MESH_DETAILED e010n50_e016n57_3220674cables00005.ac 16.51979 57.08321 7.07 90
+OBJECT_BUILDING_MESH_DETAILED e010n50_e016n57_3220674cables00012.ac 16.53997 57.08642 10.87 90
+OBJECT_BUILDING_MESH_DETAILED e010n50_e016n57_3220674cables00020.ac 16.58507 57.10517 -0.01 90
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 16.55057 57.09143 -367.89 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 16.55116 57.09508 -11.81 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 16.55210 57.09516 -2.93 450
+# END pylons_e010n50_e016n57_3220674

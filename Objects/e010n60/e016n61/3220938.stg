@@ -1,0 +1,14 @@
+# platforms_e010n60_e016n61_3220938
+# do not edit below this line
+# Last Written Sat Jul 27 04:13:46 2019
+#
+OBJECT_STATIC e010n60_e016n61_3220938platforms0105.ac 16.55577 61.22371 0.00 0
+# END platforms_e010n60_e016n61_3220938
+# piers_e010n60_e016n61_3220938
+# do not edit below this line
+# Last Written Sat Jul 27 04:13:46 2019
+#
+OBJECT_STATIC e010n60_e016n61_3220938piers0405.ac 16.66732 61.22371 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 16.66614 61.22224 45.00 -31.4517
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 16.68056 61.22079 45.00 282.657
+# END piers_e010n60_e016n61_3220938

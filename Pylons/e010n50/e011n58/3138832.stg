@@ -1,0 +1,15 @@
+# pylons_e010n50_e011n58_3138832
+# do not edit below this line
+# Last Written Sat Jul 27 00:58:40 2019
+#
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac 11.23456 58.35571 -0.00 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac 11.23443 58.35618 0.00 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac 11.23423 58.35622 0.00 0
+# END pylons_e010n50_e011n58_3138832
+# pylons_e010n50_e011n58_3138833
+# do not edit below this line
+# Last Written Sat Jul 27 01:03:13 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 11.24852 58.36844 29.37 215.142
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 11.24868 58.36841 29.13 214.7
+# END pylons_e010n50_e011n58_3138833

@@ -1,0 +1,26 @@
+# platforms_e010n50_e014n57_3187944
+# do not edit below this line
+# Last Written Sat Jul 27 02:58:32 2019
+#
+OBJECT_STATIC e010n50_e014n57_3187944platforms0201.ac 14.08383 57.65194 0.00 0
+OBJECT_STATIC e010n50_e014n57_3187944platforms0202.ac 14.08383 57.66989 0.00 0
+OBJECT_STATIC e010n50_e014n57_3187944platforms0304.ac 14.11736 57.70581 0.00 0
+OBJECT_STATIC e010n50_e014n57_3187944platforms0306.ac 14.11736 57.74173 0.00 0
+# END platforms_e010n50_e014n57_3187944
+# piers_e010n50_e014n57_3187944
+# do not edit below this line
+# Last Written Sat Jul 27 02:58:32 2019
+#
+OBJECT_STATIC e010n50_e014n57_3187944piers0203.ac 14.08383 57.68785 0.00 0
+OBJECT_STATIC e010n50_e014n57_3187944piers0204.ac 14.08383 57.70581 0.00 0
+OBJECT_STATIC e010n50_e014n57_3187944piers0502.ac 14.18442 57.66989 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 14.18788 57.66853 207.04 202.466
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 14.18778 57.66860 207.32 112.448
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 14.18781 57.66847 207.32 172.453
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 14.09045 57.69316 219.08 44.8365
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 14.09036 57.69299 218.69 251.99
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 14.09026 57.69304 218.69 251.877
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 14.09061 57.69329 218.19 70.914
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 14.09076 57.69322 218.19 70.8316
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 14.09154 57.70398 221.63 94.9594
+# END piers_e010n50_e014n57_3187944

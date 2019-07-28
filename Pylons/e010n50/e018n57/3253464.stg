@@ -1,0 +1,32 @@
+# pylons_e010n50_e018n57_3253472
+# do not edit below this line
+# Last Written Sat Jul 27 05:18:41 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.23785 57.49923 30.54 282.684
+# END pylons_e010n50_e018n57_3253472
+# pylons_e010n50_e018n57_3253464
+# do not edit below this line
+# Last Written Sat Jul 27 05:18:42 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.23785 57.49923 30.54 282.381
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.23856 57.49749 27.76 282.486
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.23927 57.49577 26.61 282.003
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.23974 57.49452 25.38 281.69
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24012 57.49355 24.81 281.829
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24083 57.49169 27.99 282.021
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24153 57.48997 26.51 282.079
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24218 57.48831 26.05 281.922
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24284 57.48663 29.40 282.14
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24346 57.48509 32.16 282.15
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24407 57.48354 33.62 282.046
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24468 57.48200 32.74 281.956
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24529 57.48045 29.42 281.756
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24585 57.47897 26.31 281.993
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24648 57.47743 27.68 282.013
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24709 57.47585 29.47 281.838
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24769 57.47432 31.24 282.209
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24830 57.47283 33.02 282.076
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 18.24949 57.46972 34.10 281.898
+OBJECT_BUILDING_MESH_DETAILED e010n50_e018n57_3253464cables00055.ac 18.24744 57.47497 30.05 90
+OBJECT_BUILDING_MESH_DETAILED e010n50_e018n57_3253464cables00056.ac 18.24127 57.49062 29.22 90
+# END pylons_e010n50_e018n57_3253464

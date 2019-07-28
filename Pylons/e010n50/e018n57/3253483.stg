@@ -1,0 +1,54 @@
+# pylons_e010n50_e018n57_3253483
+# do not edit below this line
+# Last Written Sat Jul 27 05:21:12 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79818 57.71568 4.14 194.32
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79571 57.71534 -4.31 192.72
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79257 57.71501 -1.05 233.673
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79291 57.71335 -7.38 275.599
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79315 57.71183 1.87 274.508
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79332 57.71053 7.75 231.85
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79012 57.71024 6.15 189.577
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.78680 57.70994 4.94 194.381
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.78459 57.70953 3.44 199.527
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.78211 57.70905 -0.70 199.925
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.77977 57.70859 -1.19 199.773
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.77742 57.70815 2.39 199.44
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.77514 57.70772 2.58 200.432
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.77347 57.70737 3.86 206.697
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.77172 57.70678 6.09 214.277
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.76918 57.70577 7.20 216.153
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.76638 57.70470 6.99 215.247
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.76367 57.70369 5.40 215.097
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.76090 57.70263 5.99 215.658
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.75872 57.70179 5.58 216.426
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.75603 57.70070 8.28 216.547
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.75336 57.69966 10.72 215.637
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.75060 57.69862 8.03 215.688
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79823 57.71554 1.69 195.051
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79604 57.71522 -5.29 192.615
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79284 57.71492 0.77 232.974
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79313 57.71335 -4.97 275.591
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79340 57.71184 3.31 275.426
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79366 57.71036 8.44 231.4
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.79015 57.71011 5.96 188.339
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.78685 57.70982 4.03 194.293
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.78466 57.70941 3.73 199.49
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.78217 57.70894 0.27 199.754
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.77983 57.70849 0.30 199.679
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.77748 57.70804 2.60 199.636
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.77520 57.70760 2.80 200.698
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.77356 57.70725 3.65 207.93
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.77189 57.70665 5.72 215.066
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.76932 57.70565 7.11 215.939
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.76656 57.70457 6.75 215.605
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.76384 57.70355 5.49 215.451
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.76108 57.70249 5.88 215.879
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.75890 57.70163 5.57 216.412
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.75626 57.70058 7.82 216.294
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.75354 57.69952 10.65 215.663
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 18.75077 57.69847 7.86 215.508
+OBJECT_BUILDING_MESH_DETAILED e010n50_e018n57_3253483cables00005.ac 18.76498 57.70322 6.61 90
+OBJECT_BUILDING_MESH_DETAILED e010n50_e018n57_3253483cables00012.ac 18.78789 57.71114 0.53 90
+OBJECT_BUILDING_MESH_DETAILED e010n50_e018n57_3253483cables00013.ac 18.79540 57.71452 -1.62 90
+# END pylons_e010n50_e018n57_3253483

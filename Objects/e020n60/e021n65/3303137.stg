@@ -1,0 +1,27 @@
+# piers_e020n60_e021n65_3303137
+# do not edit below this line
+# Last Written Sat Jul 27 06:43:14 2019
+#
+OBJECT_STATIC e020n60_e021n65_3303137piers0001.ac 21.52165 65.52691 0.00 0
+OBJECT_STATIC e020n60_e021n65_3303137piers0901.ac 21.91142 65.52691 0.00 0
+OBJECT_STATIC e020n60_e021n65_3303137piers1000.ac 21.95473 65.50897 0.00 0
+OBJECT_STATIC e020n60_e021n65_3303137piers1001.ac 21.95473 65.52691 0.00 0
+OBJECT_STATIC e020n60_e021n65_3303137piers1100.ac 21.99804 65.50897 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 21.89586 65.52608 -0.00 193.152
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 21.89582 65.52579 -0.00 177.204
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 21.89599 65.52547 -0.00 156.807
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 21.89631 65.52522 -0.00 146.825
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 21.89669 65.52508 -0.00 108.456
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 21.95783 65.51873 -0.00 159.455
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 21.95522 65.51852 -0.00 171.102
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 21.91435 65.52836 -0.00 206.735
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 21.91374 65.52799 -0.00 143.411
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 21.89735 65.52594 -0.00 33.2314
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 21.91383 65.52854 0.00 203.184
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 21.91488 65.52821 -0.00 196.349
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 21.91451 65.52794 -0.00 186.794
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 21.89775 65.52571 -0.00 26.5647
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 21.89743 65.52509 -0.00 178.41
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 21.96847 65.51747 -0.01 197.094
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 21.96840 65.51732 -0.01 120
+# END piers_e020n60_e021n65_3303137

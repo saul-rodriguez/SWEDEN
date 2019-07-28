@@ -1,0 +1,30 @@
+# platforms_e010n50_e017n59_3237193
+# do not edit below this line
+# Last Written Sat Jul 27 04:22:23 2019
+#
+OBJECT_STATIC e010n50_e017n59_3237193platforms0106.ac 17.30248 59.24170 0.00 0
+OBJECT_STATIC e010n50_e017n59_3237193platforms0502.ac 17.44243 59.16988 0.00 0
+# END platforms_e010n50_e017n59_3237193
+# piers_e010n50_e017n59_3237193
+# do not edit below this line
+# Last Written Sat Jul 27 04:22:23 2019
+#
+OBJECT_STATIC e010n50_e017n59_3237193piers0106.ac 17.30248 59.24170 0.00 0
+OBJECT_STATIC e010n50_e017n59_3237193piers0400.ac 17.40745 59.13398 0.00 0
+OBJECT_STATIC e010n50_e017n59_3237193piers0402.ac 17.40745 59.16988 0.00 0
+OBJECT_STATIC e010n50_e017n59_3237193piers0500.ac 17.44243 59.13398 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 17.40815 59.16971 41.00 165.212
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 17.40865 59.16977 41.00 345.471
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 17.40865 59.16977 41.00 345.471
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.40621 59.17060 41.00 -11.7565
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 17.40652 59.17074 41.00 48.064
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.40634 59.17054 41.00 256.98
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 17.40614 59.17023 41.00 129.974
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 17.45651 59.13807 41.00 241.781
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 17.42448 59.13911 41.00 346.231
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 17.29495 59.24642 3.00 336.006
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 17.29554 59.24648 3.00 333.324
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.29469 59.24602 3.00 271.486
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.30753 59.24614 3.00 200.573
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 17.30422 59.24565 3.00 343.79
+# END piers_e010n50_e017n59_3237193

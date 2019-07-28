@@ -1,0 +1,31 @@
+# pylons_e010n50_e012n59_3155320
+# do not edit below this line
+# Last Written Sat Jul 27 01:54:48 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.25348 59.91054 173.44 321.13
+# END pylons_e010n50_e012n59_3155320
+# pylons_e010n50_e012n59_3155321
+# do not edit below this line
+# Last Written Sat Jul 27 01:55:55 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.27744 59.88375 110.41 271.574
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.27751 59.88248 102.41 282.073
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.27961 59.87994 115.05 291.714
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.28046 59.87882 119.40 288.303
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.28191 59.87624 125.07 283.205
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.25348 59.91054 173.44 301.794
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.25510 59.90924 169.73 301.79
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.25657 59.90805 157.56 301.825
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.25847 59.90651 151.81 297.297
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.26070 59.90384 153.86 289.933
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.26175 59.90214 143.89 287.16
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.26652 59.89438 130.98 287.368
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.26748 59.89287 127.75 294.268
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.27050 59.89034 125.73 300.567
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.27216 59.88891 123.51 300.195
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.27592 59.88567 118.49 298.954
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.27697 59.88467 115.39 291.392
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 12.27723 59.88419 112.97 285.118
+OBJECT_BUILDING_MESH_DETAILED e010n50_e012n59_3155321cables00001.ac 12.27574 59.88176 115.17 90
+OBJECT_BUILDING_MESH_DETAILED e010n50_e012n59_3155321cables00002.ac 12.26048 59.90170 150.59 90
+# END pylons_e010n50_e012n59_3155321

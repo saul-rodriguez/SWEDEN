@@ -1,0 +1,13 @@
+# piers_e010n50_e015n57_3204339
+# do not edit below this line
+# Last Written Sat Jul 27 03:23:04 2019
+#
+OBJECT_STATIC e010n50_e015n57_3204339piers0705.ac 16.00235 57.84877 0.00 0
+# END piers_e010n50_e015n57_3204339
+# piers_e010n50_e016n57_3220720
+# do not edit below this line
+# Last Written Sat Jul 27 03:51:57 2019
+#
+OBJECT_STATIC e010n50_e016n57_3220720piers0103.ac 16.05047 57.81285 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.04619 57.82092 125.00 303.148
+# END piers_e010n50_e016n57_3220720

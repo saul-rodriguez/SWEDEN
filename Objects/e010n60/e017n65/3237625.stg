@@ -1,0 +1,32 @@
+# piers_e010n60_e017n65_3237625
+# do not edit below this line
+# Last Written Sat Jul 27 05:15:25 2019
+#
+OBJECT_STATIC e010n60_e017n65_3237625piers0303.ac 17.65379 65.93778 0.00 0
+OBJECT_STATIC e010n60_e017n65_3237625piers0402.ac 17.69773 65.91984 0.00 0
+OBJECT_STATIC e010n60_e017n65_3237625piers0501.ac 17.74167 65.90190 0.00 0
+OBJECT_STATIC e010n60_e017n65_3237625piers0503.ac 17.74167 65.93778 0.00 0
+OBJECT_STATIC e010n60_e017n65_3237625piers0600.ac 17.78561 65.88397 0.00 0
+OBJECT_STATIC e010n60_e017n65_3237625piers0805.ac 17.87350 65.97365 0.00 0
+OBJECT_STATIC e010n60_e017n65_3237625piers0906.ac 17.91744 65.99159 0.00 0
+OBJECT_STATIC e010n60_e017n65_3237625piers1004.ac 17.96138 65.95571 0.00 0
+OBJECT_STATIC e010n60_e017n65_3237625piers1006.ac 17.96138 65.99159 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 17.90552 65.99473 420.00 17.8731
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 17.86795 65.96819 420.00 329.371
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 17.94823 65.95800 420.00 221.782
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 17.91537 65.99745 420.00 -13.2684
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 17.94164 65.98307 420.00 206.101
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.91304 65.99447 420.00 272.185
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.94809 65.95820 420.00 186.944
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.94794 65.95811 420.00 135.971
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 17.91281 65.99562 420.00 295.543
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.91298 65.99575 420.00 19.049
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 17.91323 65.99567 420.00 103.929
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 17.76376 65.94146 420.00 74.4483
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 17.71781 65.92498 420.00 216.553
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 17.69393 65.91704 419.73 203.545
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 17.65200 65.93500 419.37 38.545
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.76537 65.87617 420.00 297.426
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.77048 65.87514 419.74 -14.2795
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 17.74833 65.89338 420.00 40.2437
+# END piers_e010n60_e017n65_3237625

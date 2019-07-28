@@ -1,0 +1,10 @@
+# piers_e010n60_e015n60_3204537
+# do not edit below this line
+# Last Written Sat Jul 27 03:37:58 2019
+#
+OBJECT_STATIC e010n60_e015n60_3204537piers0004.ac 15.26845 60.95577 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 15.28406 60.95792 214.09 25.6891
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.28425 60.95784 214.09 106.583
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.28491 60.95930 214.00 36.8909
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 15.28514 60.96024 214.00 40.9607
+# END piers_e010n60_e015n60_3204537

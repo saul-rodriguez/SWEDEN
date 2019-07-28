@@ -1,0 +1,33 @@
+# pylons_e010n60_e014n60_3188114
+# do not edit below this line
+# Last Written Sat Jul 27 03:09:36 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.74982 60.27986 318.89 157.157
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.74829 60.28018 314.88 157.16
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.74685 60.28048 307.96 157.162
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.74527 60.28081 302.46 157.159
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.74373 60.28113 299.58 157.162
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.74226 60.28144 298.44 157.161
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.74070 60.28177 299.63 157.16
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.73933 60.28205 292.19 181.83
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.73786 60.28169 287.94 206.496
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.73643 60.28133 280.55 206.498
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.73511 60.28101 264.30 206.5
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.73366 60.28065 249.18 206.498
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.73179 60.28019 246.00 206.23
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.72431 60.27838 251.43 205.965
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.72234 60.27790 275.89 205.967
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.70248 60.29300 267.45 310.353
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.71741 60.28428 282.38 300.664
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.72234 60.27790 275.89 290.83
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.72457 60.27497 266.47 281.595
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.72503 60.26975 294.67 272.506
+OBJECT_BUILDING_MESH_DETAILED e010n60_e014n60_3188114cables00038.ac 14.70995 60.28864 274.91 90
+OBJECT_BUILDING_MESH_DETAILED e010n60_e014n60_3188114cables00044.ac 14.73362 60.27702 282.44 90
+# END pylons_e010n60_e014n60_3188114
+# pylons_e010n60_e014n60_3188115
+# do not edit below this line
+# Last Written Sat Jul 27 03:09:58 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 14.74982 60.27986 318.89 157.157
+# END pylons_e010n60_e014n60_3188115

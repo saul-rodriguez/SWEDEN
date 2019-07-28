@@ -1,0 +1,14 @@
+# platforms_e010n60_e015n60_3204482
+# do not edit below this line
+# Last Written Sat Jul 27 03:38:10 2019
+#
+OBJECT_STATIC e010n60_e015n60_3204482platforms0104.ac 15.55387 60.08078 0.00 0
+OBJECT_STATIC e010n60_e015n60_3204482platforms0301.ac 15.62569 60.02693 0.00 0
+# END platforms_e010n60_e015n60_3204482
+# piers_e010n60_e015n60_3204482
+# do not edit below this line
+# Last Written Sat Jul 27 03:38:10 2019
+#
+OBJECT_STATIC e010n60_e015n60_3204482piers0103.ac 15.55387 60.06283 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 15.56570 60.07083 101.75 96.3242
+# END piers_e010n60_e015n60_3204482

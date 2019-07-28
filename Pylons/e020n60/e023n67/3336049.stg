@@ -1,0 +1,16 @@
+# pylons_e020n60_e023n67_3336049
+# do not edit below this line
+# Last Written Sat Jul 27 07:05:01 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 23.60032 67.87283 219.21 284.174
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 23.60292 67.86894 222.26 282.318
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 23.60384 67.86705 223.36 281.627
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 23.60923 67.85809 229.05 282.794
+OBJECT_BUILDING_MESH_DETAILED e020n60_e023n67_3336049cables00021.ac 23.60478 67.86546 224.13 90
+# END pylons_e020n60_e023n67_3336049
+# pylons_e020n60_e023n67_3336057
+# do not edit below this line
+# Last Written Sat Jul 27 07:05:07 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 23.60032 67.87283 219.21 282.524
+# END pylons_e020n60_e023n67_3336057

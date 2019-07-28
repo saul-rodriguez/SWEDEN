@@ -1,0 +1,31 @@
+# platforms_e010n50_e014n56_3187880
+# do not edit below this line
+# Last Written Sat Jul 27 02:54:35 2019
+#
+OBJECT_STATIC e010n50_e014n56_3187880platforms0600.ac 14.21214 56.63398 0.00 0
+# END platforms_e010n50_e014n56_3187880
+# piers_e010n50_e014n56_3187880
+# do not edit below this line
+# Last Written Sat Jul 27 02:54:35 2019
+#
+OBJECT_STATIC e010n50_e014n56_3187880piers0502.ac 14.17950 56.66990 0.00 0
+OBJECT_STATIC e010n50_e014n56_3187880piers0600.ac 14.21214 56.63398 0.00 0
+OBJECT_STATIC e010n50_e014n56_3187880piers0601.ac 14.21214 56.65194 0.00 0
+OBJECT_STATIC e010n50_e014n56_3187880piers0603.ac 14.21214 56.68786 0.00 0
+OBJECT_STATIC e010n50_e014n56_3187880piers0604.ac 14.21214 56.70582 0.00 0
+OBJECT_STATIC e010n50_e014n56_3187880piers0701.ac 14.24478 56.65194 0.00 0
+OBJECT_STATIC e010n50_e014n56_3187880piers0704.ac 14.24478 56.70582 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 14.21129 56.64182 134.00 115.216
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 14.21060 56.64094 134.00 92.7701
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 14.21105 56.64153 134.00 114.184
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 14.21024 56.64039 134.00 127.168
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 14.21005 56.64038 134.00 118.356
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 14.22842 56.65194 134.00 59.0587
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 14.22853 56.65190 134.00 59.0601
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 14.22861 56.65140 134.00 264.414
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 14.22840 56.65156 134.00 324.453
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 14.18400 56.66162 134.00 114.911
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 14.22699 56.69132 134.00 198.738
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 14.23418 56.70519 134.00 242.445
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 14.21159 56.69922 134.00 58.0884
+# END piers_e010n50_e014n56_3187880

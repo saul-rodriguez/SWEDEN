@@ -1,0 +1,37 @@
+# pylons_e010n50_e015n56_3204266
+# do not edit below this line
+# Last Written Sat Jul 27 03:18:07 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 15.81469 56.73305 95.85 391.882
+# END pylons_e010n50_e015n56_3204266
+# pylons_e010n50_e015n56_3204275
+# do not edit below this line
+# Last Written Sat Jul 27 03:18:42 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 15.95563 56.74676 81.73 310.124
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 15.98187 56.74842 75.85 117.35
+# END pylons_e010n50_e015n56_3204275
+# pylons_e010n50_e015n56_3204267
+# do not edit below this line
+# Last Written Sat Jul 27 03:18:43 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 15.81469 56.73305 95.85 412.134
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 15.95563 56.74676 81.73 313.987
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 15.96312 56.74249 83.04 312.512
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 15.97057 56.73778 79.83 329.531
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 15.98127 56.73653 74.26 348.199
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 15.99982 56.73443 61.49 348.015
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 15.98187 56.74842 75.85 297.354
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 15.98299 56.74722 76.71 297.334
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 15.98418 56.74596 76.09 296.984
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 15.98556 56.74444 79.69 304.076
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 15.98787 56.74300 73.54 310.851
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 15.98999 56.74162 67.67 310.216
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 15.99194 56.74035 67.77 310.256
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 15.99393 56.73906 67.88 310.229
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 15.99617 56.73760 67.80 310.533
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 15.99828 56.73626 62.77 310.269
+OBJECT_BUILDING_MESH_DETAILED e010n50_e015n56_3204267cables00014.ac 15.82725 56.74194 106.27 90
+OBJECT_BUILDING_MESH_DETAILED e010n50_e015n56_3204267cables00049.ac 15.96845 56.74164 78.65 90
+OBJECT_BUILDING_MESH_DETAILED e010n50_e015n56_3204267cables00056.ac 15.99769 56.74056 70.59 90
+# END pylons_e010n50_e015n56_3204267

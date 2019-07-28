@@ -1,0 +1,81 @@
+# pylons_e010n50_e017n58_3237171
+# do not edit below this line
+# Last Written Sat Jul 27 04:19:49 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88811 58.87179 9.45 255.549
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88761 58.87077 6.82 270.358
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88833 58.86940 7.93 270.426
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88753 58.86778 19.00 259.72
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88684 58.86448 16.66 263.406
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88661 58.86352 18.87 264.065
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88649 58.86281 20.19 250.649
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88553 58.86206 16.89 232.646
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88443 58.86140 14.04 231.721
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88384 58.86098 11.83 246.564
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88361 58.86036 9.90 254.926
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88323 58.85978 7.72 251.952
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88276 58.85900 5.98 253.405
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88244 58.85842 5.21 247.587
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88177 58.85779 4.08 227.201
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88065 58.85741 2.54 214.225
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87952 58.85700 2.54 217.141
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87845 58.85655 2.48 239.992
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87818 58.85566 0.00 261.34
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87792 58.85474 6.10 261.553
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87767 58.85388 14.06 270.197
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87795 58.85295 8.42 279.578
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87825 58.85207 16.54 279.614
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87852 58.85122 9.31 266.361
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87805 58.85039 4.80 254.702
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87767 58.84962 7.74 256.046
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87731 58.84886 10.56 257.035
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87695 58.84799 13.33 257.94
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87662 58.84717 11.80 267.18
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87680 58.84629 4.48 277.143
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87704 58.84540 2.19 276.236
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87718 58.84451 6.98 271.253
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87714 58.84390 9.65 277.555
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87763 58.84306 5.72 284.753
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87798 58.84225 -0.00 278.206
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.87803 58.84184 0.00 273.955
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.86658 58.83534 18.71 154.339
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.86158 58.83658 27.99 137.586
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.85839 58.83936 30.19 129.779
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.85826 58.83942 30.16 138.513
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.85651 58.84023 26.59 138.071
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.85026 58.84316 36.40 137.524
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.84173 58.84726 33.62 137.193
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.83763 58.84923 35.99 137.932
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.83374 58.85101 11.14 138.685
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.85826 58.83942 30.16 96.4755
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.85752 58.84281 29.99 247.176
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.85892 58.84337 30.33 397.815
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.86161 58.84445 26.20 356.559
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.86227 58.84411 21.42 316.029
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.86286 58.84382 17.18 316.693
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.85776 58.82329 24.49 405.619
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.85830 58.82357 23.92 407.57
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.85929 58.82417 24.55 409.711
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86106 58.82526 23.96 411.805
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86229 58.82613 19.85 413.039
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86346 58.82692 15.68 411.883
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86551 58.82825 18.31 416.563
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86647 58.82918 23.12 424.53
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86683 58.82963 24.49 436.116
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86702 58.83073 27.34 445.095
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86720 58.83183 26.44 445.375
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86743 58.83335 23.10 445.301
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86745 58.83347 22.82 413.293
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86826 58.83364 22.32 423.448
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml 17.86772 58.83465 19.31 105.454
+OBJECT_BUILDING_MESH_DETAILED e010n50_e017n58_3237171cables00020.ac 17.84200 58.84708 23.77 90
+OBJECT_BUILDING_MESH_DETAILED e010n50_e017n58_3237171cables00026.ac 17.86238 58.83305 22.93 90
+OBJECT_BUILDING_MESH_DETAILED e010n50_e017n58_3237171cables00027.ac 17.86545 58.84882 18.20 90
+OBJECT_BUILDING_MESH_DETAILED e010n50_e017n58_3237171cables00028.ac 17.88449 58.86460 11.37 90
+# END pylons_e010n50_e017n58_3237171
+# pylons_e010n50_e017n58_3237179
+# do not edit below this line
+# Last Written Sat Jul 27 04:21:03 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml 17.88811 58.87179 9.45 253.196
+# END pylons_e010n50_e017n58_3237179

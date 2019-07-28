@@ -1,0 +1,66 @@
+# platforms_e010n50_e016n58_3220777
+# do not edit below this line
+# Last Written Sat Jul 27 03:59:29 2019
+#
+OBJECT_STATIC e010n50_e016n58_3220777platforms0302.ac 16.37070 58.66989 0.00 0
+# END platforms_e010n50_e016n58_3220777
+# piers_e010n50_e016n58_3220777
+# do not edit below this line
+# Last Written Sat Jul 27 03:59:29 2019
+#
+OBJECT_STATIC e010n50_e016n58_3220777piers0201.ac 16.33621 58.65193 0.00 0
+OBJECT_STATIC e010n50_e016n58_3220777piers0202.ac 16.33621 58.66989 0.00 0
+OBJECT_STATIC e010n50_e016n58_3220777piers0302.ac 16.37070 58.66989 0.00 0
+OBJECT_STATIC e010n50_e016n58_3220777piers0401.ac 16.40519 58.65193 0.00 0
+OBJECT_STATIC e010n50_e016n58_3220777piers0500.ac 16.43967 58.63398 0.00 0
+OBJECT_STATIC e010n50_e016n58_3220777piers0501.ac 16.43967 58.65193 0.00 0
+OBJECT_STATIC e010n50_e016n58_3220777piers0505.ac 16.43967 58.72375 0.00 0
+OBJECT_STATIC e010n50_e016n58_3220777piers0602.ac 16.47416 58.66989 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 16.39796 58.65894 -0.00 39.8453
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.39750 58.65913 -0.00 220.463
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 16.39750 58.65913 -0.00 220.463
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 16.39796 58.65894 -0.00 39.8453
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 16.39796 58.65894 -0.00 39.8453
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 16.39630 58.65908 -0.00 349.057
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 16.39570 58.65898 -0.00 180.414
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.33609 58.64348 -0.00 189.01
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 16.33578 58.64365 -0.00 335.487
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 16.43103 58.72866 64.00 108.421
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 16.43126 58.72872 64.00 15.4164
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 16.43095 58.72877 64.00 191.621
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.43087 58.72860 64.00 133.583
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 16.41250 58.65920 -0.00 302.319
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 16.41351 58.65912 -0.00 -139.767
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 16.41309 58.65922 -0.00 38.5583
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 16.41354 58.65977 -0.00 308.193
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 16.41309 58.65922 -0.00 38.5583
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 16.41351 58.65912 -0.00 -139.767
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 16.41309 58.65922 -0.00 38.5583
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 16.41351 58.65912 -0.00 -139.767
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 16.41309 58.65922 -0.00 38.5583
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 16.41237 58.65908 -0.00 306.307
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 16.41237 58.65914 -0.00 26.2819
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 16.41192 58.65920 -0.00 204.351
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 16.41265 58.65927 -0.00 125.48
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.41298 58.65957 -0.00 311.157
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.41265 58.65927 -0.00 125.48
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 16.41298 58.65957 -0.00 311.157
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.44435 58.63786 -0.00 37.275
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 16.42297 58.65914 0.00 354.971
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 16.42255 58.65914 0.00 175.826
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 16.42255 58.65914 0.00 175.826
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 16.42297 58.65914 0.00 354.971
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 16.42297 58.65914 0.00 354.971
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 16.42243 58.65903 0.00 112.882
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 16.42260 58.65924 0.00 292.753
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.45251 58.65766 3.10 327.289
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 16.35171 58.66637 -0.00 16.7016
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.39363 58.65827 0.00 144.54
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.39608 58.65844 -0.00 18.0641
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 16.39669 58.65835 -0.00 79.3225
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 16.39661 58.65856 -0.00 259.332
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 16.39661 58.65856 -0.00 259.332
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 16.39669 58.65835 -0.00 79.3225
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 16.39669 58.65835 -0.00 79.3225
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.40818 58.65877 0.00 251.755
+# END piers_e010n50_e016n58_3220777

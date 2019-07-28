@@ -1,0 +1,25 @@
+# piers_e010n60_e016n61_3220986
+# do not edit below this line
+# Last Written Sat Jul 27 04:13:32 2019
+#
+OBJECT_STATIC e010n60_e016n61_3220986piers0101.ac 16.55714 61.90192 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220986piers0205.ac 16.59523 61.97370 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220986piers0302.ac 16.63332 61.91987 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220986piers0502.ac 16.70950 61.91987 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220986piers0504.ac 16.70950 61.95576 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220986piers0505.ac 16.70950 61.97370 0.00 0
+OBJECT_STATIC e010n60_e016n61_3220986piers0604.ac 16.74759 61.95576 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.69164 61.98200 157.00 123.811
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.71209 61.92051 42.00 149.874
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.71295 61.96020 159.00 286.081
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 16.71290 61.96029 159.00 286.055
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 16.71287 61.96027 159.00 11.8363
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.72873 61.95425 144.00 265.369
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 16.55805 61.89392 42.00 -88.5701
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 16.55826 61.89359 42.00 -88.6514
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.55706 61.89375 42.00 165.484
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 16.55706 61.89375 42.00 165.484
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.55766 61.89369 42.00 346.526
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 16.55766 61.89369 42.00 346.526
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 16.59761 61.97447 178.00 128.904
+# END piers_e010n60_e016n61_3220986

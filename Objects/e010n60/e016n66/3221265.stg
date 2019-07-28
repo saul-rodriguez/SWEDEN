@@ -1,0 +1,9 @@
+# piers_e010n60_e016n66_3221265
+# do not edit below this line
+# Last Written Sat Jul 27 04:17:56 2019
+#
+OBJECT_STATIC e010n60_e016n66_3221265piers0102.ac 16.56689 66.29484 0.00 0
+OBJECT_STATIC e010n60_e016n66_3221265piers0301.ac 16.65608 66.27690 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 16.64814 66.27837 460.00 214.786
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 16.55289 66.28585 460.54 164.612
+# END piers_e010n60_e016n66_3221265

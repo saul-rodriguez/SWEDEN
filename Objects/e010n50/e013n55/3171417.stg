@@ -1,0 +1,13 @@
+# platforms_e010n50_e013n55_3171417
+# do not edit below this line
+# Last Written Sat Jul 27 02:09:41 2019
+#
+OBJECT_STATIC e010n50_e013n55_3171417platforms0705.ac 13.48698 55.47380 0.00 0
+# END platforms_e010n50_e013n55_3171417
+# piers_e010n50_e013n55_3171417
+# do not edit below this line
+# Last Written Sat Jul 27 02:09:41 2019
+#
+OBJECT_STATIC e010n50_e013n55_3171417piers0600.ac 13.45538 55.38398 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 13.46999 55.37526 -0.01 157.539
+# END piers_e010n50_e013n55_3171417

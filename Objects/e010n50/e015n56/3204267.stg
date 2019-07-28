@@ -1,0 +1,13 @@
+# platforms_e010n50_e015n56_3204267
+# do not edit below this line
+# Last Written Sat Jul 27 03:18:43 2019
+#
+OBJECT_STATIC e010n50_e015n56_3204267platforms0406.ac 15.89687 56.74174 0.00 0
+# END platforms_e010n50_e015n56_3204267
+# piers_e010n50_e015n56_3204267
+# do not edit below this line
+# Last Written Sat Jul 27 03:18:43 2019
+#
+OBJECT_STATIC e010n50_e015n56_3204267piers0003.ac 15.76632 56.68786 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 15.75337 56.69653 108.00 -32.3007
+# END piers_e010n50_e015n56_3204267

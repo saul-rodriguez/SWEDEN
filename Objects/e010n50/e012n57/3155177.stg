@@ -1,0 +1,30 @@
+# platforms_e010n50_e012n57_3155177
+# do not edit below this line
+# Last Written Sat Jul 27 01:41:22 2019
+#
+OBJECT_STATIC e010n50_e012n57_3155177platforms0504.ac 12.43442 57.70581 0.00 0
+# END platforms_e010n50_e012n57_3155177
+# piers_e010n50_e012n57_3155177
+# do not edit below this line
+# Last Written Sat Jul 27 01:41:22 2019
+#
+OBJECT_STATIC e010n50_e012n57_3155177piers0004.ac 12.26677 57.70581 0.00 0
+OBJECT_STATIC e010n50_e012n57_3155177piers0206.ac 12.33383 57.74173 0.00 0
+OBJECT_STATIC e010n50_e012n57_3155177piers0604.ac 12.46795 57.70581 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 12.45566 57.70796 122.00 56.1361
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 12.45611 57.70805 122.00 85.0632
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 12.27644 57.70404 104.00 60.7604
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 12.27633 57.70419 104.00 -5.94661
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 12.27648 57.70425 104.00 -6.61223
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 12.27657 57.70417 104.00 80.699
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 12.27486 57.70452 104.00 -0.887449
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 12.28068 57.70413 104.00 -58.5782
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 12.45626 57.70777 122.00 -51.3989
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 12.45684 57.70769 122.00 23.659
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 12.34191 57.74699 95.00 107.891
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 12.34214 57.74694 95.00 138.826
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 12.34211 57.74689 95.00 139.569
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 12.26249 57.71084 107.00 239.279
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 12.26260 57.71065 107.00 260.678
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 12.26620 57.71289 107.22 246.402
+# END piers_e010n50_e012n57_3155177

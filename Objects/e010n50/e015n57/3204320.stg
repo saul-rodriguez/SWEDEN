@@ -1,0 +1,30 @@
+# piers_e010n50_e014n57_3187939
+# do not edit below this line
+# Last Written Sat Jul 27 03:02:18 2019
+#
+OBJECT_STATIC e010n50_e014n57_3187939piers0706.ac 15.00062 57.61673 0.00 0
+# END piers_e010n50_e014n57_3187939
+# piers_e010n50_e015n57_3204320
+# do not edit below this line
+# Last Written Sat Jul 27 03:19:22 2019
+#
+OBJECT_STATIC e010n50_e015n57_3204320piers0302.ac 15.11695 57.54490 0.00 0
+OBJECT_STATIC e010n50_e015n57_3204320piers0303.ac 15.11695 57.56285 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 15.24769 57.58946 207.00 168.528
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.11430 57.55580 194.99 289.736
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 15.11464 57.55583 194.99 258.2
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 15.11398 57.55575 194.99 258.202
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 15.11231 57.55664 195.00 3.75915
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 15.11260 57.55680 195.00 97.4404
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 15.11288 57.55682 195.00 -7.82124
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.11313 57.55668 195.00 165.007
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 15.11305 57.55647 195.00 184.205
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.11449 57.54968 195.00 54.1385
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 15.11463 57.54966 195.00 25.2889
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 15.11474 57.54967 195.00 1.38276
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.13339 57.55656 194.99 240.588
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.13347 57.55661 194.99 -28.5284
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.11435 57.55421 195.00 194.092
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.11421 57.54835 195.57 218.719
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 15.11416 57.54843 195.54 203.331
+# END piers_e010n50_e015n57_3204320
